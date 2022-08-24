@@ -4,7 +4,7 @@
 To build a simple quiz website
 
 ## Link to website
-[add link here]
+https://sccroix.github.io/code-quiz/
 
 ## Image of website
 [add image here]
